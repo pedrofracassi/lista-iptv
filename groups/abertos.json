@@ -23,10 +23,10 @@
       ]
     },
     {
-      "displayName": "TV Bahia",
-      "logoURL": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/4c/Logotipo_da_TV_Bahia.jpg/200px-Logotipo_da_TV_Bahia.jpg",
+      "displayName": "TV Escola",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png",
       "streamURLs": [
-        "http://sspitv.liss.fun:8880/vtpd6b3j2f/tmwb86vzr9/7105"
+        "http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8"
       ]
     }
   ]
