@@ -21,6 +21,13 @@
       "streamURLs": [
         "http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8"
       ]
+    },
+    {
+      "displayName": "TV Bahia",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/4c/Logotipo_da_TV_Bahia.jpg/200px-Logotipo_da_TV_Bahia.jpg",
+      "streamURLs": [
+        "http://sspitv.liss.fun:8880/vtpd6b3j2f/tmwb86vzr9/7105"
+      ]
     }
   ]
 }
