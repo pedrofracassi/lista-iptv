@@ -1,0 +1,27 @@
+{
+  "name": "lista-iptv",
+  "version": "1.0.0",
+  "description": "Lista com canais de IPTV que funcionam",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrofracassi/lista-iptv.git"
+  },
+  "keywords": [
+    "iptv"
+  ],
+  "author": "Pedro Fracassi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedrofracassi/lista-iptv/issues"
+  },
+  "homepage": "https://github.com/pedrofracassi/lista-iptv#readme",
+  "dependencies": {
+    "m3u": "0.0.2",
+    "standard": "^12.0.1"
+  }
+}

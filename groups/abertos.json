@@ -1,0 +1,26 @@
+{
+  "groupTitle": "Canais Abertos",
+  "channels": [
+    {
+      "displayName": "SBT",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png",
+      "streamURLs": [
+        "http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8"
+      ]
+    },
+    {
+      "displayName": "SBT Piauí",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png",
+      "streamURLs": [
+        "http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8"
+      ]
+    },
+    {
+      "displayName": "TV Gazeta",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png",
+      "streamURLs": [
+        "http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8"
+      ]
+    }
+  ]
+}
