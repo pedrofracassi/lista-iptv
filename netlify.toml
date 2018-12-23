@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "/lista.m3u"
+  status = 200
