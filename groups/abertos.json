@@ -37,7 +37,7 @@
       ]
     },
     {
-      "displayName": "Rede TV",
+      "displayName": "RedeTV!",
       "logoURL": "https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png",
       "streamURLs": [
         "http://evpp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8",
