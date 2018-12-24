@@ -16,6 +16,13 @@
       ]
     },
     {
+      "displayName": "SBT RJ",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d9/Logotipo_do_SBT_Rio.png/200px-Logotipo_do_SBT_Rio.png",
+      "streamURLs": [
+        "http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?EDSONSOUSALIST"
+      ]
+    },
+    {
       "displayName": "TV Gazeta",
       "logoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png",
       "streamURLs": [
@@ -31,7 +38,7 @@
     },
     {
       "displayName": "TVE RS",
-      "logoURL": "https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/Logotipo_do_SBT_RS.png/200px-Logotipo_do_SBT_RS.png",
       "streamURLs": [
         "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8"
       ]
