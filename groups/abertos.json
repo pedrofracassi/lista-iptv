@@ -30,8 +30,8 @@
       ]
     },
     {
-      "displayName": "TVE",
-      "logoURL": "",
+      "displayName": "TVE RS",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png",
       "streamURLs": [
         "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8"
       ]
