@@ -50,6 +50,55 @@
         "http://evpp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8",
         "http://evpp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8"
       ]
+    },
+    {
+      "displayName": "RTP 1 [PT]",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1280px-RTP1_-_Logo_2016.svg.png",
+      "streamURLs": [
+        "http://force102.com:8080/nabiabi/03032018/11009"
+      ]
+    },
+    {
+      "displayName": "RTP 2 [PT]",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png",
+      "streamURLs": [
+        "http://force102.com:8080/nabiabi/03032018/11010"
+      ]
+    },
+    {
+      "displayName": "RTP 3 [PT]",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1280px-Rtp3.png",
+      "streamURLs": [
+        "http://force102.com:8080/nabiabi/03032018/11007"
+      ]
+    },
+    {
+      "displayName": "SIC [PT]",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png",
+      "streamURLs": [
+        "http://force102.com:8080/nabiabi/03032018/11008"
+      ]
+    },
+    {
+      "displayName": "TVI [PT]",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/pt/6/63/TVI_logo_2017.png",
+      "streamURLs": [
+        "http://force102.com:8080/nabiabi/03032018/11019"
+      ]
+    },
+    {
+      "displayName": "TVI24 [PT]",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/pt/5/50/Tvi_24.png",
+      "streamURLs": [
+        "http://force102.com:8080/nabiabi/03032018/11002"
+      ]
+    },
+    {
+      "displayName": "SIC NOTICIAS [PT]",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1280px-Rtp3.png",
+      "streamURLs": [
+        "http://force102.com:8080/nabiabi/03032018/11013"
+      ]
     }
   ]
 }
