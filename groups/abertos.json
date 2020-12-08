@@ -50,6 +50,13 @@
         "http://evpp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8",
         "http://evpp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8"
       ]
+    },
+    {
+      "displayName": "Loading",
+      "logoURL": "https://loading.com.br/assets/images/logotipo-loading.png",
+      "streamURLs": [
+        "http://cdn4.showcase.com.br/live/main_480p/index.m3u8"
+      ]
     }
   ]
 }
