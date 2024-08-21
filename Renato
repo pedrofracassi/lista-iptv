@@ -1,0 +1,136 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="PremiereFC [Brazil]" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere Clubes
+http://95.141.35.104:8081/looktvs/pfc1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="PremiereFC [Brazil]" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere Clubes HD
+http://listaiptv.brcs.ml:8080/HD_PFC_CLUBES/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 2
+http://listaiptv.brcs.ml:8080/SD_PFC_2/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 3
+http://listaiptv.brcs.ml:8080/SD_PFC_3/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 4
+http://listaiptv.brcs.ml:8080/SD_PFC_4/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 5
+http://listaiptv.brcs.ml:8080/SD_PFC_5/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 6
+http://listaiptv.brcs.ml:8080/SD_PFC_6/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 7
+http://listaiptv.brcs.ml:8080/SD_PFC_7/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 8
+http://listaiptv.brcs.ml:8080/SD_PFC_8/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Fish TV" tvg-logo="http://s20.postimg.org/evsil85gt/Fish_TV.png" group-title="Esportes",Fish TV
+http://listaiptv.brcs.ml:8080/SD_FISH_TV/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="http://s20.postimg.org/lg17li0lp/ESPNBrasil.png" group-title="Esportes",ESPN Brasil
+http://158.58.172.5:8081/look/espnbrs/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="http://s20.postimg.org/lg17li0lp/ESPNBrasil.png" group-title="Esportes",ESPN Brasil HD
+http://listaiptv.brcs.ml:8080/HD_ESPN_BRASIL/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://s20.postimg.org/uwr0s4kgd/ESPN.png" group-title="Esportes",ESPN
+http://listaiptv.brcs.ml:8080/SD_ESPN/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://s20.postimg.org/uwr0s4kgd/ESPN.png" group-title="Esportes",ESPN HD
+http://listaiptv.brcs.ml:8080/HD_ESPN/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://s20.postimg.org/78biwunwt/ESPN.png" group-title="Esportes",ESPN+
+http://listaiptv.brcs.ml:8080/SD_ESPN_MAIS/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://s20.postimg.org/78biwunwt/ESPN.png" group-title="Esportes",ESPN+ HD
+http://listaiptv.brcs.ml:8080/HD_ESPN_MAIS/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-logo="http://s20.postimg.org/gzjgnysgd/esporte_interativo.png" group-title="Esportes",Esporte Interativo
+http://listaiptv.brcs.ml:8080/SD_ESPORTE_INTERATIVO_2/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-logo="http://s20.postimg.org/gzjgnysgd/esporte_interativo.png" group-title="Esportes",Esporte Interativo HD
+http://listaiptv.brcs.ml:8080/HD_ESPORTE_INTERATIVO/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="EI Maxx" tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="Esportes",EI Maxx
+http://listaiptv.brcs.ml:8080/SD_EI_MAXX/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="EI Maxx" tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="Esportes",EI Maxx HD
+http://listaiptv.brcs.ml:8080/HD_EI_MAXX/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title="Esportes",EI Maxx 2
+http://listaiptv.brcs.ml:8080/SD_EI_MAXX_2/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title="Esportes",EI Maxx 2 HD
+http://listaiptv.brcs.ml:8080/HD_EI_MAXX_2/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Woohoo" tvg-logo="http://s20.postimg.org/qh7qq1x9p/Woohoo.png" group-title="Esportes",Woohoo
+http://listaiptv.brcs.ml:8080/SD_WOOHOO/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Off" tvg-logo="http://s20.postimg.org/bzaji25yl/Canal_Off.png" group-title="Esportes",Off
+http://listaiptv.brcs.ml:8080/SD_OFF/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Off" tvg-logo="http://s20.postimg.org/bzaji25yl/Canal_Off.png" group-title="Esportes",Off HD
+http://listaiptv.brcs.ml:8080/HD_OFF/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/vxo3d63d9/nba.jpg" group-title="Esportes",NBA
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+
+#EXTINF:-1 tvg-id="BandSports" tvg-logo="http://s20.postimg.org/44ntwrq19/Band_Sport.png" group-title="Esportes",Band Sports
+http://listaiptv.brcs.ml:8080/SD_BAND_SPORTS/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="BandSports" tvg-logo="http://s20.postimg.org/44ntwrq19/Band_Sport.png" group-title="Esportes",Band Sports HD
+http://listaiptv.brcs.ml:8080/HD_BAND_SPORTS/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-logo="http://s32.postimg.org/7yy5aszit/combate2.png" group-title="Esportes",Combate
+http://158.58.172.5:8081/looktvs/combate3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-logo="http://s32.postimg.org/7yy5aszit/combate2.png" group-title="Esportes",Combate HD
+http://listaiptv.brcs.ml:8080/HD_COMBATE/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="http://s20.postimg.org/zcwx1096x/Spor_TV.png" group-title="Esportes",SporTV
+http://95.141.35.104:8081/looktvs/0sportv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="http://s20.postimg.org/zcwx1096x/Spor_TV.png" group-title="Esportes",SporTV HD
+http://listaiptv.brcs.ml:8080/HD_SPORTV_1/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png" group-title="Esportes",SporTV 2
+http://listaiptv.brcs.ml:8080/SD_SPORTV_2/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png" group-title="Esportes",SporTV 2 HD
+http://listaiptv.brcs.ml:8080/HD_SPORTV_2/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png" group-title="Esportes",SporTV 3
+http://listaiptv.brcs.ml:8080/SD_SPORTV_2/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png" group-title="Esportes",SporTV 3 HD
+http://listaiptv.brcs.ml:8080/HD_SPORTV_2/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="FoxSports" tvg-logo="http://s20.postimg.org/6t0raqvf1/Fox_Sport.png" group-title="Esportes",Fox Sports
+http://95.141.32.213:8081/looktvs/foxsport/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="FoxSports" tvg-logo="http://s20.postimg.org/6t0raqvf1/Fox_Sport.png" group-title="Esportes",Fox Sports HD
+http://listaiptv.brcs.ml:8080/HD_FOX_SPORTS/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-logo="http://s20.postimg.org/tizw3qeml/Fox_Sports2.png" group-title="Esportes",Fox Sports 2
+http://listaiptv.brcs.ml:8080/SD_FOX_SPORTS_2/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-logo="http://s20.postimg.org/tizw3qeml/Fox_Sports2.png" group-title="Esportes",Fox Sports 2 HD
+http://listaiptv.brcs.ml:8080/HD_FOX_SPORTS_2/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes",Sport TV 2
+rtmp://185.80.220.79:15214/streamM/CLANGj2Xof.stream?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes",Sport TV 5
+rtmp://185.80.220.79:15214/streamM/xZxIbGC9NR.stream?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="Esportes",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/meg97lm7h/Horse_Brasil_TV.png" group-title="Esportes",Horse Brasil HD
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/7j60cwlfx/allspots.png" group-title="Esportes",All Sports BR
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
